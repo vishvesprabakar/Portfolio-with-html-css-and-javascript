@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>vishves prabakar</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>VISHVES PRABAKAR</h1>
+  <h2>Summary</h2>
+  <p>As a civil engineer with 4 years of experience, I have always been fascinated by the power of technology and its ability to change the world we live in. This has led me to change my career path towards full-stack website development, where I can use my technical background and problem-solving skills to develop innovative digital solutions.<br>
+
+<br>I am now an entry-level full-stack developer looking to use my knowledge of HTML, CSS, JavaScript and React to create dynamic, user-friendly websites that meet the needs of businesses and individuals alike. I am highly motivated and always looking for new challenges and opportunities to learn and grow.
+<br>
+<br>In my previous job as a civil engineer, I honed my skills in project management, teamwork and problem solving. These skills combined with my technical skills make me a strong candidate for any full-stack development role.
+<br>
+<br>If you are looking for a dedicated, committed full-stack developer, I would love the opportunity to bring my passion and expertise to your team. Let's get in touch and see how I can help you bring your digital vision to life.</p>
+
+
+<h2>Technicl skills</h2>
+  <p>HTML-5 | CSS | JavaScript | React | GitHub | C | Python | Django | Adriano IDE | AutoCAD | Revit | 3ds Max | STADD Pro | ArcGIS | SketchUp | Adobe Photoshop | Microsoft office suits |</p>
+  <br>
+<h2>SOFT SKILLS</h2>
+  <p>Problem-solving | Time management | Communication | Interpersonal analysis | Team work | Organized | Punctual | Adaptable | Critical thinking | </p>
+  <br>
+<h2>EDUCATION</h2>
+  <script src="script.js"></script>
+</body>
+</html>
